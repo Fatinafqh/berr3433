@@ -59,4 +59,4 @@ jobs:
           app-name: 'Fatin'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A752C30466FD4E8AB0C08D659382E6D1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB67B82EED8F4F03B3CD464013DD9A6A }}
